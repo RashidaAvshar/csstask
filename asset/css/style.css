@@ -1,0 +1,64 @@
+body{
+    background-color: lightcyan;
+}
+header{background-color: #000113;}
+.top ul li{text-align: ; color: azure;}
+.box{
+    
+    height: 700px;
+    background-color: rgb(240, 207, 164);
+background: url(../img/318-3186611_pink-tree-and-an-owl-kids-sticker-hootin.png);
+background-repeat: no-repeat; 
+background-position: center;
+background-attachment: scroll;
+background-color: rgb(244, 244, 190);
+background-size: auto; 
+border-style: double;
+border-color: #000113;
+
+
+
+
+}
+
+
+.box1{
+    height: 900px;
+    width: 700px;
+    background: url(../img/depositphotos_59199533-stock-illustration-owl-on-tree.jpg);    
+    background-position: top right;
+    background-attachment: scroll;
+    border: dashed greenyellow 30px 20px 30px 20px;
+    background-size: 500px 400px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-origin: content-box;
+    
+}
+.tree{
+    border: dashed greenyellow;
+}
+/* .box{
+    background: url(../img/318-3186611_pink-tree-and-an-owl-kids-sticker-hootin.png) no-repeat top fixed;
+    width: 950px;
+    height: 800px;
+    border: 10px solid red;
+    border-right: 3px; 
+    border-radius: 5px;
+    border-top-right-radius: 3px;
+
+}
+
+/* .box1{
+    width: 500px;
+    height: 550px;
+    background-color: rgb(154, 129, 149);
+    border-radius: 55px 150px 1px 200px; 
+    margin; 1px 30px 3px 50px
+}
+.box2{
+    width: 500px;
+    height: 550px;
+    background-color: rgb(125, 125, 225);
+    border-radius: 55px 150px 15px 200px; 
+} */
