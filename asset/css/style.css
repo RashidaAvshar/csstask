@@ -6,11 +6,12 @@ header{background-color: #000113;}
 .box{
     
     height: 700px;
+    width: 900px;
     padding: 5px;
     background-color: rgb(240, 207, 164);
 background: url(../img/318-3186611_pink-tree-and-an-owl-kids-sticker-hootin.png);
 background-repeat: no-repeat; 
-background-position: center;
+background-position: right;
 background-attachment: scroll;
 background-color: rgb(244, 244, 190);
 background-size: auto; 
