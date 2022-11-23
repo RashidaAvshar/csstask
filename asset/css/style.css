@@ -181,7 +181,7 @@ h2{
 table, th, td{
     border: 1px solid;
     outline-style: groove;
-    outline-color: rgb(130, 77, 132);
+    outline-color: rgb(219, 200, 220);
     padding: 5px 5px;
     border-bottom: 0px rgb(245, 238, 238);
 
@@ -189,6 +189,7 @@ table, th, td{
 table{
     width: 100%;
     border-collapse: collapse  ;
+    
 }
 
 th{
@@ -204,6 +205,11 @@ td{
 text-align: center;
 
 
+
+}
+
+tr:hover{
+    background-color: antiquewhite;
 }
 /* main end */
 
