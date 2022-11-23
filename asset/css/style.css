@@ -135,7 +135,8 @@ letter-spacing: 3px;
 padding: 5px 7px 5px 7px;
 line-height: 20px;
 background-color: rgb(246, 248, 251);
-background-image: url(../img/il_570xN.1714226363_be4c.webp);
+
+
 
 }
 h1{
@@ -148,6 +149,7 @@ text-decoration: none;
 text-transform: unset;
 color: rgb(233, 105, 105);
 display: inline-block;
+outline-color: blueviolet;
 
 }
 
@@ -155,12 +157,53 @@ div.view-appearance{
 border: thin outset rgb(47, 111, 47);
 border: 100px 100px;
 margin-top: 10px;
+padding: 10px 10px 10px 10px;
 border-radius: 20px 0px 30px 0px;
-background-image: ;
+background-image: url(../img/il_570xN.1714226363_be4c.webp);
+background-repeat: no-repeat;
+background-position: 50%;
+background-attachment: fixed;
+opacity: 70%;
+image-rendering: unset;
+text-indent: 40px;
+text-align: center;
+outline-style: double;
+outline-color: rgb(203, 246, 246);
+
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    
+}
+
+table, th, td{
+    border: 1px solid;
+    outline-style: groove;
+    outline-color: rgb(130, 77, 132);
+    padding: 5px 5px;
+    border-bottom: 0px rgb(245, 238, 238);
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse  ;
+}
+
+th{
+    height: 50px;
+    text-align: center;
+    text-shadow: 0px 2px;
+    color: rgb(160, 128, 128);
+    background-color: rgb(63, 14, 14);
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+td{
+text-align: center;
 
 
 }
-
-
 /* main end */
 
