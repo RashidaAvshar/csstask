@@ -155,22 +155,30 @@ outline-color: blueviolet;
 
 div.view-appearance{
 border: thin outset rgb(47, 111, 47);
-border: 100px 100px;
+border: 50px 300px 50px 300px;
 margin-top: 10px;
 padding: 10px 10px 10px 10px;
 border-radius: 20px 0px 30px 0px;
-background-image: url(../img/il_570xN.1714226363_be4c.webp);
+/* background-image: url(../img/il_570xN.1714226363_be4c.webp);
 background-repeat: no-repeat;
 background-position: 50%;
 background-attachment: fixed;
 opacity: 70%;
-image-rendering: unset;
+image-rendering: unset; */
 text-indent: 40px;
 text-align: center;
 outline-style: double;
 outline-color: rgb(203, 246, 246);
+letter-spacing: 0.8px;
+line-height: 1.5;
 
 }
+
+.first-part{
+    opacity: none;
+    text-align: right;
+}
+
 h2{
     text-align: center;
     text-transform: uppercase;
@@ -178,6 +186,30 @@ h2{
     
 }
 
+.live-fox{
+background-image: url(../img/il_570xN.1714226363_be4c.webp);
+background-repeat: no-repeat;
+background-attachment: local;
+background-position: 50%;
+border-color: black;
+border: 100px 200px 100px 200px;
+line-height: 1.4;
+letter-spacing: 1px;
+text-indent: 45px;
+text-align: justify;
+margin-top: 10px;
+padding: 10px 100px 10px 100px;
+border-radius: 10px 20px 20px 30px;
+
+
+}
+
+h3{
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-shadow: 0.3px 3px;
+}
 table, th, td{
     border: 1px solid;
     outline-style: groove;
